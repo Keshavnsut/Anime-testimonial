@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anime-testimonial/static/css/main.bcba5c0c.css",
+    "main.js": "/Anime-testimonial/static/js/main.1f254c62.js",
+    "index.html": "/Anime-testimonial/index.html",
+    "main.bcba5c0c.css.map": "/Anime-testimonial/static/css/main.bcba5c0c.css.map",
+    "main.1f254c62.js.map": "/Anime-testimonial/static/js/main.1f254c62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcba5c0c.css",
+    "static/js/main.1f254c62.js"
+  ]
+}
